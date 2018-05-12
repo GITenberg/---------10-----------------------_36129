@@ -1,0 +1,46 @@
+_repo: '---------10-----------------------_36129'
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dragoumes, Ion
+    aliases:
+    - Dragoumis, Ion
+    - Δραγούμης, Ίων
+    - Δραγουμης, Ιων
+    birthdate: 1878
+    deathdate: 1920
+    gutenberg_agent_id: '38088'
+    url: http://www.gutenberg.org/2009/agents/38088
+    wikipedia: http://el.wikipedia.org/wiki/%CE%8A%CF%89%CE%BD_%CE%94%CF%81%CE%B1%CE%B3%CE%BF%CF%8D%CE%BC%CE%B7%CF%82
+  editor:
+    agent_name: Tankopoulos, Demetrios P.
+    aliases:
+    - Tankopoulos, D. P. (Demetrios P.)
+    - Tagopoulos, Dimitris
+    birthdate: 1867
+    deathdate: 1926
+    gutenberg_agent_id: '38089'
+    url: http://www.gutenberg.org/2009/agents/38089
+description: ''
+gutenberg_issued: '2011-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36129'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greece -- Civilization'
+- !lcc 'DF'
+tableOfContents: Για τούτο το Βιβλίο (του Δ. Π. Ταγκόπουλου) -- Στην Πόλη (1904) --
+  Το Έθνος, οι Τάξες και ο Ένας (1907) -- Ο Δωδεκάλογος του Γύφτου (ί907) -- Τι είναι
+  το Γλωσσικό ζήτημα (1907) -- Ο ευγενικώτερα πολιτισμένος λαός (1907) -- Α' Προκήρυξη
+  προς τους σκλαβωμένους και τους ελευθερωμένους Έλληνες (1908) -- Η Μικρή Πατρίδα
+  (Β' Προκήρυξη κτλ.) (l908) -- Στρατός και άλλα (Γ' Προκήρυξη κτλ.) (1909) -- Κοινωνισμός
+  και Κοινωνιολογία (1908) -- Τιμή και Ανάθεμα (1912).
+title: 'Μελέται: 10 άρθρα του στον «Νουμά»'
+url: http://www.gutenberg.org/ebooks/36129
